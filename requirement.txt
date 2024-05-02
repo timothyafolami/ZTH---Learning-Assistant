@@ -1,0 +1,10 @@
+google-generativeai
+pandas 
+numpy
+matplotlib
+notebook
+python-dotenv
+openai
+langchain
+librosa
+pydub
